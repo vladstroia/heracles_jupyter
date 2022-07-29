@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-29T20:51:19.456893Z",
+      "format": null,
+      "last_modified": "2022-07-29T20:50:12.999306Z",
+      "mimetype": "application/pdf",
+      "name": "9. Trasarea curbelor caracteristice ale pompelor centrifuge.pdf",
+      "path": "9_Trasarea_curbelor_caracteristice_ale_pompelor_centrifuge/9. Trasarea curbelor caracteristice ale pompelor centrifuge.pdf",
+      "size": 410317,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-29T20:51:19.456893Z",
+      "format": null,
+      "last_modified": "2022-07-29T20:50:12.999306Z",
+      "mimetype": null,
+      "name": "pompe_centrifuge.ipynb",
+      "path": "9_Trasarea_curbelor_caracteristice_ale_pompelor_centrifuge/pompe_centrifuge.ipynb",
+      "size": 148649,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-29T20:51:19.456893Z",
+  "format": "json",
+  "last_modified": "2022-07-29T20:51:19.456893Z",
+  "mimetype": null,
+  "name": "9_Trasarea_curbelor_caracteristice_ale_pompelor_centrifuge",
+  "path": "9_Trasarea_curbelor_caracteristice_ale_pompelor_centrifuge",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
